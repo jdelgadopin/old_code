@@ -20,6 +20,6 @@ I implemented two versions: One simple first version, using the functional langu
 
 The algorithm of epsilon-machine reconstruction I implemented here is largely superseded by the work of Prof. [Cosma Shalizi](http://bactra.org/CSSR/):
 
-C. R. Shalizi, K. L. Klinkner, *Blind Construction of Optimal Nonlinear Recursive Predictors for Discrete Sequences* in *Uncertainty in Artificial Intelligence: Proceedings of the Twentieth Conference (UAI 2004) *, Max Chickering and Joseph Halpern (eds.), AUAI Press 2004, 504-511
+C. R. Shalizi, K. L. Klinkner, *Blind Construction of Optimal Nonlinear Recursive Predictors for Discrete Sequences* in *Uncertainty in Artificial Intelligence: Proceedings of the Twentieth Conference (UAI 2004)*, Max Chickering and Joseph Halpern (eds.), AUAI Press 2004, 504-511
 
 Thus, nowadays the code in this repository is *not* useful *at all* :smiley:
