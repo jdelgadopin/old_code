@@ -1,4 +1,4 @@
-# Epsilon-Machine reconstruction
+# Epsilon-Machine reconstruction (1994-1996)
 
 At the end of the 80's the work by Prof. James P. Crutchfield et al. defined a computer-science related measure of complexity called *Statistical Complexity*. It involved, among other things, the reconstruction of stochastic finite automata from streams of 0's and 1's (a.k.a. epsilon-machines) .
 
