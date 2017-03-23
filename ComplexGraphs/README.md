@@ -14,7 +14,7 @@ These are some graph building algorithms I implemented when my research topic wa
 
 `measures.c` Implementation of the computation of some measures on undirected graphs: clustering, correlations, diameter and average path length.
 
-###The work where I used this code was published in:
+### The work where I used this code was published in:
 
 J.Delgado, *Emergence of Social Conventions in Complex Network*, Artificial Intelligence 141, 171 (2002)
 
